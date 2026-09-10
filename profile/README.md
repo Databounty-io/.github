@@ -9,10 +9,11 @@ DataBounty turns a real data gap into a traceable, release-ready public dataset.
 | 3 public datasets | 3,000 released items | CC BY 4.0 releases |
 |---:|---:|---:|
 
-[Explore DataBounty](https://databounty.io) · [Open the console](https://console.databounty.io) · [Browse on Hugging Face](https://huggingface.co/databounty-io) · [Contact support](mailto:support@databounty.io)
+[Explore DataBounty](https://databounty.io) · [Open the console](https://console.databounty.io) · [Browse on Hugging Face](https://huggingface.co/databounty-io) · [View the source](https://github.com/Databounty-io/databounty) · [Contact support](mailto:support@databounty.io)
 
 ## Recent updates
 
+- **Now open source:** the platform itself — API, web, admin console, and landing site — is public at [Databounty-io/databounty](https://github.com/Databounty-io/databounty).
 - **Public-release navigation:** each featured release below now links to the matching GitHub files and Hugging Face dataset card.
 - **Clearer release evidence:** releases describe their scope, licence, provenance metadata, contributor credit, and machine-readable manifest.
 - **One visible workflow:** DataBounty connects an open data need to community contributions, validation, and a reusable public release.
